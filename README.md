@@ -29,4 +29,5 @@ By the end of the exploration, A Tableau dashboard that illustrates different as
 
 Users can filter the top 1%,5%,10% and 25% on all three metrics using a drop down box. They can also filter the range of user ids they are interested in.
 The dashboard also compares by the average grade of students per Gender.
+
 ![Tableau Dashboard](https://raw.githubusercontent.com/nahomneg/Educational-Data-Log-Analysis/master/Snip%20dashboard.PNG)
